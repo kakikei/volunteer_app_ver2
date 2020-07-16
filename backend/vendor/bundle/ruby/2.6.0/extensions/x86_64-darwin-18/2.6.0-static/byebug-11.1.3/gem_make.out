@@ -1,0 +1,19 @@
+current directory: /Users/kaki-/Documents/volunteer_app_ver2/backend/vendor/bundle/ruby/2.6.0/gems/byebug-11.1.3/ext/byebug
+/usr/local/var/rbenv/versions/2.6.4/bin/ruby -I /usr/local/var/rbenv/versions/2.6.4/lib/ruby/2.6.0 -r ./siteconf20200717-47162-84hzdk.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kaki-/Documents/volunteer_app_ver2/backend/vendor/bundle/ruby/2.6.0/gems/byebug-11.1.3/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/kaki-/Documents/volunteer_app_ver2/backend/vendor/bundle/ruby/2.6.0/gems/byebug-11.1.3/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/kaki-/Documents/volunteer_app_ver2/backend/vendor/bundle/ruby/2.6.0/gems/byebug-11.1.3/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20200717-47162-iqj8l/byebug
